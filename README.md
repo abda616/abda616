@@ -22,7 +22,7 @@
 
 - 🤝 I worked with major clients in **MENA**
 
-- 📫 How to reach me **[abdelrahman@alherbawi.work](mailto:abdelrahman@alherbawi.work**
+- 📫 How to reach me [abdelrahman@alherbawi.work](mailto:abdelrahman@alherbawi.work)
 
 - 📄 Know about my experiences [My CV](https://alherbawi.work)
 
@@ -31,7 +31,7 @@
 
 <div style="display: flex;justify-content: space-between;align-content: center;flex-wrap: wrap;flex-direction: row;align-items: center;column-gap: 10px;">
         <img src="https://static.cdnlogo.com/logos/a/19/aws.svg" height="25" alt="aws logo"/>
-        <img src="https://static.cdnlogo.com/logos/t/40/terraform.svg" height="25" alt="terraform logo"/>
+        <img src="https://static.cdnlogo.com/logos/t/40/terraform.svg" height="30" alt="terraform logo"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"/>
         <img src="https://static.cdnlogo.com/logos/u/81/ubuntu.svg" height="20" alt="ubuntu logo"/>
         <img src="https://static.cdnlogo.com/logos/m/82/macos-wordmark-2017.svg"height="20" alt="macos logo"/>
